@@ -1,3 +1,5 @@
+Crabs Dataset Dictionary
+
 Column 1: Color- The color of the crab (blue or orange)
 
 Column 2: Sex-The sex of the crab (male or female)
@@ -12,4 +14,4 @@ Column 6: Carapace width- The measurement of the width of the carapace(shell)
 
 Column 7: Body depth- The measurement of the depth (thickness) of the crab tom to bottom
 
-Column 8: Latitude- the location in which the crab was found 
+Column 8: Latitude- the location in which the crab was found  
